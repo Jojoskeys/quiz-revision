@@ -1,0 +1,3 @@
+Quel mot-clé Java crée un objet ?;new
+Combien d'octets occupe un int en Java ?;4
+Quelle commande Git envoie les commits vers GitHub ?;git push
